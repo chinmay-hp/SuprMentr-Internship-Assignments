@@ -1,0 +1,3 @@
+Short Data Story (Trend Explanation):-
+
+The graphs show that the student performs well in most subjects, especially in English and Computer, while Social has the lowest score. The pie chart confirms that higher marks are concentrated in a few strong subjects. The histogram shows that most students’ scores are in the medium to high range, indicating an overall good academic performance trend. This suggests that the class has a generally balanced performance with room for improvement in weaker subjects.

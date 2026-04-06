@@ -1,0 +1,14 @@
+Why Data Cleaning Matters :-
+
+-> Data cleaning is very important because raw datasets often contain:-
+
+- missing values
+- duplicate rows
+- inconsistent text
+- errors or irrelevant data
+
+-> If data is not cleaned:
+
+- analysis may become incorrect
+- machine learning models may perform poorly
+- results may become misleading
