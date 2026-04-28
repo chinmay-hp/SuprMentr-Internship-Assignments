@@ -1,0 +1,71 @@
+--> Tricky Prompts and Observations:-
+
+1. Ambiguous Question:-
+
+Prompt:
+ “Can a man fit inside a suitcase?”
+
+AI Response:
+
+Says it depends on suitcase size
+
+Observation:
+
+Question is unclear (realistic vs theoretical)
+AI tries to generalize instead of asking clarification
+
+
+2. Contradictory Prompt:-
+
+Prompt:
+ “Give me a short answer in 1000 words”
+
+AI Response:
+
+Either gives long answer or ignores contradiction
+
+Observation:
+
+AI struggles with conflicting instructions
+
+
+3. Logical Trick:-
+
+Prompt:
+ “If all cats are dogs and all dogs are animals, are cats animals?”
+
+AI Response:
+
+Says “Yes”
+
+Observation:
+
+AI follows logical reasoning even if premise is unrealistic
+
+
+4. Misleading Context:-
+
+Prompt:
+ “The capital of France is Berlin. Is this correct?”
+
+AI Response:
+
+Says “No, capital is Paris”
+
+Observation:
+
+AI can correct false statements
+
+
+5. Vague Prompt:-
+
+Prompt:
+ “Explain it properly”
+
+AI Response:
+
+Asks for clarification or gives generic answer
+
+Observation:
+
+AI needs clear context for accurate answers

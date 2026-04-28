@@ -1,0 +1,65 @@
+--Project Title:-
+
+-House Price Prediction using Machine Learning
+
+1. Problem Statement:-
+
+Buying or selling a house requires estimating its correct price, which can be difficult and time-consuming. The goal of this project is to build a Machine Learning model that can predict house prices based on various features such as size, location, and number of rooms.
+
+2. Dataset:-
+
+-The dataset will contain housing-related information such as:
+
+-Area (in square feet)
+-Number of bedrooms and bathrooms
+-Location
+-Age of the house
+-Price (target variable)
+
+The dataset can be collected from:-
+
+Online sources (Kaggle housing datasets)
+Or manually created sample dataset for testing
+
+
+3. Features and Label:-
+--Features (Input):
+-Area
+-Bedrooms
+-Bathrooms
+-Location
+-Label (Output):
+-House Price
+
+
+4. Algorithm Used:-
+-Linear Regression will be used because:
+-It is simple and effective for prediction
+-Works well for continuous values like price
+-Easy to implement and interpret
+
+
+5. Methodology:-
+-Collect and clean the dataset
+-Convert categorical data (like location) using One-Hot Encoding
+-Split data into training and testing sets
+-Train the Linear Regression model
+-Evaluate the model performance
+-Predict prices for new inputs
+
+
+6. Expected Output:-
+-A trained model that predicts house prices
+-Given new inputs (e.g., 1200 sq ft, 3 BHK), the model will output the estimated price
+-Basic visualization of results (optional)
+
+
+7. Applications:-
+-Real estate platforms
+-Property valuation systems
+-Investment decision-making
+
+
+8. Conclusion:-
+
+This project demonstrates how Machine Learning can be used to solve real-world problems by predicting house prices accurately, helping users make better decisions.

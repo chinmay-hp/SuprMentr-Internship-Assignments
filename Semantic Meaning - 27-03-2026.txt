@@ -1,0 +1,29 @@
+1. What is Semantic Similarity?
+
+Semantic similarity refers to how closely two words are related in meaning.
+
+High similarity → similar meaning (e.g., happy & joyful)
+Low similarity → different meaning (e.g., happy & sad)
+
+
+2. Word Pairs with Explanation:-
+
+1. Happy – Joyful
+Similarity: High
+Explanation: Both words express a feeling of happiness and positivity.
+
+2. Big – Large
+Similarity: High
+Explanation: Both describe something of great size or magnitude.
+
+3. Car – Vehicle
+Similarity: Medium
+Explanation: A car is a type of vehicle, so they are related but not identical.
+
+4. Teacher – Student
+Similarity: Low to Medium
+Explanation: They are related in context (education) but have different roles.
+
+5. Hot – Cold
+Similarity: Opposite (Antonyms)
+Explanation: These words have completely opposite meanings.

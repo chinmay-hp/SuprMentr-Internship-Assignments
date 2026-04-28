@@ -1,0 +1,33 @@
+--Explain Netflix-like recommendations using KNN:-
+
+1. What is KNN?
+
+K-Nearest Neighbors (KNN) is a simple Machine Learning algorithm that:
+
+Finds the K most similar data points (neighbors)
+Makes a decision based on those neighbors
+
+It is mainly used for:
+
+Classification (e.g., Like / Dislike)
+Recommendation systems
+
+
+2. KNN in Real Life (Netflix Example)
+
+A platform like Netflix uses a concept similar to KNN for recommendations.
+
+How it works:
+
+Netflix collects user data:
+Movies watched
+Ratings given
+Genres liked
+It finds similar users (neighbors):
+Users with similar taste in movies
+
+It recommends:
+Movies liked by similar users but not watched by you
+
+In short:
+"People similar to you liked this → so you might like it too"

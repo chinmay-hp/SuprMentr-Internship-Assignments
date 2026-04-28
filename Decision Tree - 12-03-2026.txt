@@ -1,0 +1,12 @@
+<!-- Decision tree predicting whether you should play outside. -->
+
+
+                Weather
+              /    |     \
+          Sunny  Rainy  Cloudy
+           /        |        \
+     Humidity     No Play     Yes Play
+      /    \
+   High   Normal
+    |        |
+ No Play   Yes Play

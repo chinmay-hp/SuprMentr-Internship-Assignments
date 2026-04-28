@@ -1,0 +1,46 @@
+--> What is Prompt Engineering?
+
+Prompt Engineering is the process of designing clear and specific inputs (prompts) to get accurate and useful responses from an AI model.
+
+--> Examples of Weak vs Strong Prompts:-
+
+1. Resume Generation:-
+
+Weak Prompt:
+ “Make my resume”
+
+Strong Prompt:
+ “Create a professional resume for a Computer Science student skilled in Python, Machine Learning, and Web Development. Include sections for education, projects, skills, and internships. Keep it concise and ATS-friendly.”
+
+Comparison:
+
+Weak → Too vague
+Strong → Clear role, skills, format
+
+
+2. Business Idea:-
+
+Weak Prompt:
+ “Give me a business idea”
+
+Strong Prompt:
+ “Suggest a low-budget tech startup idea for college students in India, including target audience, problem solved, and revenue model.”
+
+Comparison:
+
+Weak → No direction
+Strong → Specific audience + constraints
+
+
+3. Study Plan:-
+
+Weak Prompt:
+👉 “Make a study plan”
+
+Strong Prompt:
+👉 “Create a 7-day study plan for learning Machine Learning basics, including daily topics, practice tasks, and revision time for a beginner.”
+
+Comparison:
+
+Weak → Generic
+Strong → Time-bound + structured

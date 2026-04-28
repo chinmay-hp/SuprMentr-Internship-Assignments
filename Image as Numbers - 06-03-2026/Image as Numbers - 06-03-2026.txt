@@ -1,0 +1,37 @@
+--> Explanation:-
+
+1. Image Shape:-
+
+Example output:
+
+Image Shape: (500, 500, 3)
+500 → Height (pixels)
+500 → Width (pixels)
+3 → Number of channels (B, G, R)
+
+
+2. Pixel Values:-
+
+Each pixel has 3 values:
+
+[Blue, Green, Red]
+
+Example:
+
+[255, 0, 0] → Blue color
+[0, 255, 0] → Green color
+[0, 0, 255] → Red color
+Range: 0 to 255
+0 → No intensity
+255 → Maximum intensity
+
+
+3. Channels:-
+
+Blue Channel → intensity of blue color
+Green Channel → intensity of green color
+Red Channel → intensity of red color
+
+Each channel is a 2D matrix:
+
+Height × Width

@@ -1,0 +1,69 @@
+--> Messy Sentences Dataset:-
+
+| No. | Sentence                        |
+| --- | ------------------------------- |
+| 1   | hey bro u coming 2 class 😂     |
+| 2   | omg this movie is sooo goood!!! |
+| 3   | I cant beleive this happend     |
+| 4   | lol that was funny 🤣🤣         |
+| 5   | plz send me d notes             |
+| 6   | whr r u now??                   |
+| 7   | this is gr8 work 👍             |
+| 8   | i luv this song sooo much ❤️    |
+| 9   | wat is ur plan 4 tmrw           |
+| 10  | hahaha that was crazzyyy        |
+| 11  | gud mrng have a nice day 😊     |
+| 12  | y r u late again??              |
+| 13  | dis is not fair 😡              |
+| 14  | i didnt recieve ur msg          |
+| 15  | bday party was awsm 🎉          |
+| 16  | u did a gud job 👍              |
+| 17  | im so tiredd rn                 |
+| 18  | cant w8 for weekend 😍          |
+| 19  | this place is lit 🔥            |
+| 20  | pls rply asap                   |
+
+
+--> Required Preprocessing Steps:-
+
+1. Lowercasing
+
+Convert all text to lowercase
+ “OMG” → “omg”
+
+2. Remove Emojis
+
+Remove or convert emojis into words
+ 😂 → “laugh”
+
+3. Expand Slang
+
+Convert short forms into full words
+ “u” → “you”
+
+4. Spell Correction
+
+Fix typos
+ “beleive” → “believe”
+
+5. Remove Special Characters
+
+Remove symbols like !, ?, etc.
+
+6. Remove Repeated Letters
+
+ “soooo” → “so”
+
+7. Tokenization
+
+Split sentence into words
+ “i love ml” → [i, love, ml]
+
+
+--> Example Transformation:-
+
+Original:
+ “omg this movie is sooo goood 😂”
+
+Processed:
+ “this movie is so good” 

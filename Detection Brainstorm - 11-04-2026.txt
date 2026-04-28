@@ -1,0 +1,53 @@
+--> Applications of Face/Object Detection:-
+
+1. Face Unlock (Smartphones)
+Detects user’s face to unlock device
+Used in mobile security systems
+
+2. Attendance System
+Detects and recognizes student faces
+Automatically marks attendance
+
+3. Traffic Monitoring
+Detects vehicles on roads
+Helps in traffic control and rule enforcement
+
+4. Security Surveillance
+Detects suspicious objects or unknown persons
+Used in airports, malls, public places
+
+5. Shopping (Self-Checkout Systems)
+Detects products in cart
+Automatically generates bill
+
+
+--> Designed Solution:-
+
+Project Title:
+
+-Smart Classroom Attendance System
+
+Problem Statement:
+
+-Manual attendance is time-consuming and error-prone. The system should automatically mark attendance using face detection.
+
+Proposed Solution:
+
+-Capture live video using camera
+-Detect faces in each frame
+-Recognize faces using trained model
+-Match with student database
+-Mark attendance automatically
+
+Input:
+
+-Live video stream
+-Student face dataset
+
+Output:
+
+-Attendance record (Present/Absent)
+-Technologies Used:
+-OpenCV (face detection)
+-Machine Learning / Deep Learning
+-Python
